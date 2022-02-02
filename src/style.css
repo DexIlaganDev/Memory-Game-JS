@@ -1,0 +1,21 @@
+*{
+    box-sizing:border-box;
+}
+
+html,body{
+    margin:0;
+}
+ 
+#grid{
+    display:flex;
+    width:400px;
+    height:300px;
+    margin:auto;
+    flex-wrap:wrap; 
+}
+
+img {
+    width:100px;
+    height:100px;
+    cursor:pointer;
+}
